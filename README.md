@@ -32,9 +32,13 @@
 
 ---
 
-### Most Used Languages:
+<!--### Most Used Languages:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HafsaSindikar&layout=compact&theme=dark&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HafsaSindikar&layout=compact&theme=dark&langs_count=6)-->                                                                                
+  
+  
+  
+  
 
 ---
 
