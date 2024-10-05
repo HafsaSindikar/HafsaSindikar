@@ -1,11 +1,13 @@
-# Hi 👋, I'm Hafsa Sindikar
+#Hi 👋, I'm Hafsa Sindikar
 
 **A Passionate Software Engineering Student and Aspiring Front-end Developer**
 
 - 🌱 I’m currently learning **Java, Python, and Android Development**
-- 👨‍💻 I'm working on  **Building a website with my peers**
+- 👨‍💻 I'm working on **Building a website with my peers**
 - 📫 How to reach me: **hafsasindikar@gmail.com**
   
+---
+
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafsa-sindikar-8195532a0/)   
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/HafsaSindikar)
@@ -32,18 +34,8 @@
 
 ### Most Used Languages:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HafsaSindikar&layout=default&theme=dark&langs_count=6)
-                    
-                      
----
-![trophy](https://github-profile-trophy.vercel.app/?username=HafsaSindikar)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HafsaSindikar&layout=compact&theme=dark&langs_count=6)
 
-                                                                                                                                                                
-  
-  
-  
-  
-  
-  
-  
-  
+---
+
+![trophy](https://github-profile-trophy.vercel.app/?username=HafsaSindikar)
