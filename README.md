@@ -7,7 +7,7 @@
 - 📫 How to reach me: **hafsasindikar@gmail.com**
   
 ### Connect with me:
-[![LinkedIn](https://www.linkedin.com/in/hafsa-sindikar-8195532a0/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafsa-sindikar-8195532a0/)   
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/HafsaSindikar)
 
 ---
